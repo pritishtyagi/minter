@@ -1,4 +1,7 @@
 import * as React from "react";
-export const Button = () => {
-  return <button>Boop</button>;
+
+import Button from '@mui/material/Button'
+
+export const MinterButton = () => {
+  return <Button color="primary" variant="contained">login</Button>
 };
