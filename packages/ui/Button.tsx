@@ -1,7 +1,7 @@
 import * as React from "react";
 
-import Button from '@mui/material/Button'
+import {Button} from '@mantine/core'
 
 export const MinterButton = () => {
-  return <Button color="primary" variant="contained">login</Button>
+  return <Button>login</Button>
 };

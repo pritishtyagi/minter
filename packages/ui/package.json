@@ -14,6 +14,15 @@
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
-    "@mui/material": "^5.6.4"
+    "@mantine/core": "^4.2.2",
+    "@mantine/dates": "^4.2.2",
+    "@mantine/dropzone": "^4.2.2",
+    "@mantine/form": "^4.2.2",
+    "@mantine/hooks": "^4.2.2",
+    "@mantine/modals": "^4.2.2",
+    "@mantine/next": "^4.2.2",
+    "@mantine/notifications": "^4.2.2",
+    "@mui/material": "^5.6.4",
+    "dayjs": "^1.11.1"
   }
 }
