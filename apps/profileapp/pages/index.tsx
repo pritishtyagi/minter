@@ -1,11 +1,10 @@
 import { MinterButton } from "ui";
 
-export default function MentyApp() {
+export default function ProfileApp() {
   return (
     <div>
-      <h1>Mentor App</h1>
+      <h1>Profile App</h1>
       <MinterButton />
     </div>
   );
 }
-
